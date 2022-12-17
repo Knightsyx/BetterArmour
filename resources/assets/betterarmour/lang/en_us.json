@@ -1,0 +1,19 @@
+{
+  "item.betterarmour.ruby": "Ruby",
+  "item.betterarmour.sapphire": "Sapphire",
+  "item.betterarmour.amethyst": "Amethyst",
+  "itemGroup.BetterArmour": "Better Armour",
+
+  "item.betterarmour.ruby_fragment": "Ruby Fragment",
+  "item.betterarmour.sapphire_fragment": "Sapphire Fragment",
+  "item.betterarmour.amethyst_fragment": "Amethyst Fragment",
+
+  "item.betterarmour.steel_nugget": "Steel Nugget",
+  "item.betterarmour.steel_ingot": "Steel Ingot",
+
+  "block.betterarmour.ruby_block": "Block of Ruby",
+  "block.betterarmour.sapphire_block": "Block of Sapphire",
+  "block.betterarmour.amethyst_block": "Block of Amethyst",
+
+  "block.betterarmour.amethyst_ore": "Amethyst Ore"
+}
